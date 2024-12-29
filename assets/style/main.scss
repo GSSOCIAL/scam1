@@ -1,0 +1,19 @@
+@import "./themes.scss";
+
+body {
+    h1 {
+        color: #997c4c;
+        text-transform: uppercase;
+        font-size: var(--fontSizeL);
+        font-weight: var(--fontWeightL);
+        line-height: var(--lineHeightL);
+    }
+
+    h2 {
+        color: #997c4c;
+        font-weight: 300;
+        text-transform: uppercase;
+        font-size: var(--fontSizeM);
+        line-height: var(--lineHeightM);
+    }
+}

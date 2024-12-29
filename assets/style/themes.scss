@@ -1,0 +1,21 @@
+:root {
+    --background: #121010;
+    --color: #cccccc;
+
+    --link: var(--color);
+
+    //Fonts
+    --fontSize: 14px;
+    --fontWeight: 400;
+    --lineHeight: 1.8;
+    --fontSizeM: 36px;
+    --fontWeightM: 400;
+    --lineHeightM: 1.2;
+    --fontSizeL: 62px;
+    --fontWeightL: 400;
+    --lineHeightL: 1.2;
+    //Offsets
+    --wrapperH: 24px;
+    --wrapperV: 24px;
+    --gap: 12px;
+}
